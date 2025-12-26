@@ -20,9 +20,9 @@ Ensure you have the following installed:
 1. Clone the repository:
    
 ```bash
-git clone https://github.com/oguzhan18/station-service
+git clone https://github.com/nexus-x6/Station-Service
 
-cd station-service
+cd Station-Service
 ```
 2. Install dependencies:
 ```bash
